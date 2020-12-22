@@ -1,4 +1,17 @@
 # GEOG5995_Independent_Project
+# Extended Deadline 12/30/2020
+
+
+Motivation
+
+
+Model outputs 
+
+
+
+
+
+
 Project ideas Broadly speaking, your project should:  
 - Read in some data. 
 - Process it in some way. 
