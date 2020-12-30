@@ -163,7 +163,7 @@ def update(misc):
     plt.title('Drunks')  
     
     for drunk in drunk_people:
-        plt.scatter(drunk.x, drunk.y, s=50, color = 'pink', label = 'drunks in town') 
+        plt.scatter(drunk.x, drunk.y, s=30, color = 'pink', label = 'drunks in town') 
 
 
 # 5. Saves the density map to a file as text.
